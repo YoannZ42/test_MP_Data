@@ -1,0 +1,11 @@
+scikit-learn
+seaborn
+streamlit
+matplotlib
+joblib
+numpy
+Flask
+lightgbm
+pandas
+shap
+gunicorn
